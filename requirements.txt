@@ -4,3 +4,4 @@ opencv-python==4.5.1.48
 Pillow==8.0.1
 pathlib
 protobuf==3.20.1
+numpy==1.23.0
